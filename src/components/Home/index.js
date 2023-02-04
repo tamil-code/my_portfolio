@@ -110,7 +110,7 @@ const Home = () => {
     
       </ul>
       </div>
-      <div className="stage-cube-cont" style={{display:cube}}>
+      <div className="stage-cube-cont cube" style={{display:cube}}>
           <div className="cubespinner">
             <div className="face1">
               <FontAwesomeIcon icon={faJava} color="#DD0031" />
