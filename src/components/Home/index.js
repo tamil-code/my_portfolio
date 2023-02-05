@@ -75,7 +75,7 @@ const Home = () => {
             />
           </h1>
           <h2>Front End Developer | React</h2>
-          <a className="flat-button">
+          <a className="flat-button" href='https://drive.google.com/file/d/19qFK5q71duePTIMxVHhR7QwrrH1tHMNZ/view?usp=share_link' target='_blank'>
              My resume
           </a>
         </div>
